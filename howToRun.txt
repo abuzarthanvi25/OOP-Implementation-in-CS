@@ -1,0 +1,3 @@
+run 
+dotnet run
+for running the program.cs file you noob

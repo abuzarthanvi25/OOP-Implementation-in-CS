@@ -1,0 +1,30 @@
+D:\C# Learning\bin\Debug\net6.0\C# Learning.exe
+D:\C# Learning\bin\Debug\net6.0\C# Learning.deps.json
+D:\C# Learning\bin\Debug\net6.0\C# Learning.runtimeconfig.json
+D:\C# Learning\bin\Debug\net6.0\C# Learning.dll
+D:\C# Learning\bin\Debug\net6.0\C# Learning.pdb
+D:\C# Learning\obj\Debug\net6.0\C# Learning.csproj.AssemblyReference.cache
+D:\C# Learning\obj\Debug\net6.0\C# Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learning\obj\Debug\net6.0\C# Learning.AssemblyInfoInputs.cache
+D:\C# Learning\obj\Debug\net6.0\C# Learning.AssemblyInfo.cs
+D:\C# Learning\obj\Debug\net6.0\C# Learning.csproj.CoreCompileInputs.cache
+D:\C# Learning\obj\Debug\net6.0\C# Learning.dll
+D:\C# Learning\obj\Debug\net6.0\refint\C# Learning.dll
+D:\C# Learning\obj\Debug\net6.0\C# Learning.pdb
+D:\C# Learning\obj\Debug\net6.0\C# Learning.genruntimeconfig.cache
+D:\C# Learning\obj\Debug\net6.0\ref\C# Learning.dll
+D:\C# Learning\OOP Implementation in C#\bin\Debug\net6.0\C# Learning.exe
+D:\C# Learning\OOP Implementation in C#\bin\Debug\net6.0\C# Learning.deps.json
+D:\C# Learning\OOP Implementation in C#\bin\Debug\net6.0\C# Learning.runtimeconfig.json
+D:\C# Learning\OOP Implementation in C#\bin\Debug\net6.0\C# Learning.dll
+D:\C# Learning\OOP Implementation in C#\bin\Debug\net6.0\C# Learning.pdb
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.csproj.AssemblyReference.cache
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.AssemblyInfoInputs.cache
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.AssemblyInfo.cs
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.csproj.CoreCompileInputs.cache
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.dll
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\refint\C# Learning.dll
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.pdb
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\C# Learning.genruntimeconfig.cache
+D:\C# Learning\OOP Implementation in C#\obj\Debug\net6.0\ref\C# Learning.dll
